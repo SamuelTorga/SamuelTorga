@@ -15,7 +15,7 @@
 <h2 align="center">Main Technologies:</h2>
 </br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,kafka,redis,mongodb,mysql,postgres,linux,docker,kubernetes,aws,html,css,js,ts,react,git,idea,maven,postman,regex&perline=6" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,kafka,redis,mongodb,mysql,postgres,linux,docker,kubernetes,aws,html,css,js,ts,react,git,idea,maven,postman,regex&perline=8" />
 </div>
 
 <br> </br>
